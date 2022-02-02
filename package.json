@@ -1,0 +1,16 @@
+{
+  "name": "tasks-manager",
+  "version": "1.0.0",
+  "description": "Tasks manager CRUD API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Camilo Vahos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
